@@ -19,12 +19,11 @@
   background-color: #eeeeee;
 }
 .contact span {
-  padding: 0px 10px;
+  padding: 0px 12px;
   color: rgb(102, 102, 102);
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 500;
   font-style: normal;
-  gap: 10px;
 }
 .contact .btn-light {
   padding: 0px 20px;
@@ -98,9 +97,9 @@ nav .btn-success {
     width: 100%;
     padding: 10px 10px;
   }
-
   .contact span {
-    padding: 0px 5px;
+    padding: 0px 2px;
+    font-size: 9px;
   }
   .contact .btn-light {
     padding: 0px 20px;
